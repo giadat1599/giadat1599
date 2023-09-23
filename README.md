@@ -6,7 +6,7 @@ Let's connect and exchange knowledge:
 
 
 [![Linked in Badge](https://img.shields.io/badge/-dattruong-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dat-truong-30bb11230/)](https://www.linkedin.com/in/dat-truong-30bb11230/)
-[![Facebook Badge](https://img.shields.io/badge/-truongia.dat-4267B2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/truonggia.dat.9/)](https://www.facebook.com/truonggia.dat.9/)
+[![Facebook Badge](https://img.shields.io/badge/-truonggia.dat-4267B2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/truonggia.dat.9/)](https://www.facebook.com/truonggia.dat.9/)
 [![Telegram Badge](https://img.shields.io/badge/-giadat99-229ED9?style=flat&logo=Telegram&logoColor=white&link=https://t.me/giadat99)](https://t.me/giadat99)
 [![Telegram Badge](https://img.shields.io/badge/-truonggiadat15-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:truonggiadat15@gmail.com)](mailto:truonggiadat15@gmail.com)
 
